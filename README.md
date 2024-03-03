@@ -1,4 +1,4 @@
-# Depth-wise-separable-convolution-and-RLC-Encoding
+# CSIE DIC LAB--Depth-wise separable convolution and RLC Encoding
 
 ## CSIE DIC LAB--Depth-wise separable convolution and RLC Encoding
 
